@@ -12,3 +12,4 @@ https://thebulletin.org
 https://www.thenation.com/
 https://www.theatlantic.com/
 https://www.technologyreview.com/
+http://peoplespolicyproject.org/
