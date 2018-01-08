@@ -5,7 +5,7 @@ https://concerning.ai/
 https://hunch.net/
 https://mark.reid.name/blog/
 https://news.ycombinator.com/
-https://www.andrewgelman.com/
+http://www.andrewgelman.com/
 https://www.kdnuggets.com/
 https://fast.ai
 http://www.marekrei.com/
